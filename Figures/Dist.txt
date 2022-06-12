@@ -1,0 +1,19 @@
+Distance using Chessboard Distance between 2 ships: 184.0
+Distance using Chessboard Distance between the left edge of the small Boat and left Canal bank: 42.0
+Distance using Chessboard Distance between the right edge of the small Boat and right Canal bank: 109.0
+Distance using Chessboard Distance between the left edge of the Big Boat and left Canal bank: 41.0
+Distance using Chessboard Distance between the right edge of the Big Boat and right Canal bank: 77.0
+
+
+Distance using City-Block Distance between 2 ships: 185.0
+Distance using City-Block Distance between the left edge of the small Boat and left Canal bank: 42.0
+Distance using City-Block Distance between the right edge of the small Boat and right Canal bank: 109.0
+Distance using City-Block Distance between the left edge of the Big Boat and left Canal bank: 41.0
+Distance using City-Block Distance between the right edge of the Big Boat and right Canal bank: 77.0
+
+
+Distance using Euclidean Distance between 2 ships: 184.4142135623731
+Distance using Euclidean Distance between the left edge of the small Boat and left Canal bank: 42.0
+Distance using Euclidean Distance between the right edge of the small boat and the right bank of the canal: 109.0
+Distance using Euclidean Distance between the left edge of the Big Boat and left Canal bank: 41.0
+Distance using Euclidean Distance between the right edge of the Big Boat and right Canal bank: 77.0

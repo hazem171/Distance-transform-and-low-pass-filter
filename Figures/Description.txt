@@ -1,0 +1,7 @@
+The preprocessing steps taken were:
+1) We converted the image into grayscale to have a single value for each pixel.
+2) Edge Detection was applied on the grayscale image using cv2.Canny with a threshold between 150 and 200 which was obtained after trial and error. 
+The edge image was used to obtain the nearest edge pixel of each side of each boat to the corresponding canal edge so the nearest edge pixel of the left canal with the nearest left edge pixel in both ships 
+and the same for the right canal side and right sides of the ships. The obtained pixels were used in the calculations of the distance for each side using the 3 algorithms.
+These pixels were the only white pixels in the row of each ship and the nearest 2 were taken for each ship with each canal bank side.
+And we do the normal 1st and 2nd passes on these points once with each distance measure algorithm.
